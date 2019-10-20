@@ -28,8 +28,9 @@
         android:layout_height="50dp"
         android:layout_marginStart="10dp"
         android:layout_marginBottom="10dp"
-        android:background="@drawable/bgn"
+        android:background="#320D1929"
         android:text="@string/syntax"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -39,15 +40,16 @@
         android:layout_height="50dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
-        android:background="@drawable/bgn"
+        android:background="#320D1929"
         android:text="@string/link"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
     <ImageView
         android:id="@+id/img1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="385dp"
+        android:layout_height="170dp"
         android:layout_marginTop="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -5,17 +5,6 @@
     <string name="k3">Receiver</string>
     <string name="k4">Provider</string>
     <string name="k5">Intent</string>
-    <string name="back">BACK</string>
-    <string name="isi1">Aktivitas adalah titik masuk untuk berinteraksi dengan pengguna. Ini mewakili satu layar dengan antarmuka pengguna. Misalnya, aplikasi email mungkin memiliki satu aktivitas yang menampilkan daftar email baru, aktivitas lain untuk menulis email, dan aktivitas satunya lagi untuk membaca email. Walaupun semua aktivitas bekerja sama untuk membentuk pengalaman pengguna yang kohesif dalam aplikasi email, masing-masing tidak saling bergantung. Karenanya, aplikasi berbeda bisa memulai salah satu aktivitas ini (jika aplikasi email mengizinkannya). Misalnya, aplikasi kamera bisa memulai aktivitas dalam aplikasi email yang membuat email baru agar pengguna bisa berbagi gambar. Aktivitas mempermudah interaksi penting berikut di antara sistem dan aplikasi:
-        Tetap memantau apa yang penting bagi pengguna saat ini (apa yang ada di layar) untuk memastikan bahwa sistem tetap menjalankan proses yang menjadi host aktivitas.
-Memahami proses yang digunakan sebelumnya berisi sesuatu yang dapat dikembalikan pengguna (aktivitas yang dihentikan), jadi lebih memprioritaskan mempertahankan proses tersebut.
-Membantu menangani aplikasi menghentikan prosesnya sehingga pengguna dapat kembali ke aktivitas dengan status sebelumnya yang dipulihkan.
-Memberikan cara bagi aplikasi untuk menerapkan alur antar pengguna, dan bagi sistem untuk mengoordinasikan alur ini. (Contoh yang paling klasik sedang dibagikan di sini).
-Anda menerapkan aktivitas sebagai subclass dari class Activity. Untuk informasi selengkapnya tentang class Activity, lihat panduan developer Aktivitas.</string>
-    <string name="isi2">Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1</string>
-    <string name="isi3">Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1</string>
-    <string name="isi4">Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1</string>
-    <string name="isi5">Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1Isi Komponen 1</string>
     <string name="judul">KOMPONEN ANDROID</string>
     <string name="syntax">Contoh Syntax</string>
     <string name="syntax1">Contoh Syntax</string>
